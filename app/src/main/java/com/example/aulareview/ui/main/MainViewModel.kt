@@ -3,7 +3,6 @@ package com.example.aulareview.ui.main
 import androidx.lifecycle.*
 import com.example.aulareview.domain.mapper.toModel
 import com.example.aulareview.domain.model.SampleModel
-import com.example.aulareview.domain.repository.SampleRepository
 import com.example.aulareview.domain.repository.impl.SampleRepositoryImpl
 import com.example.aulareview.networking.model.SampleResponse
 import com.example.aulareview.networking.service.Resource
